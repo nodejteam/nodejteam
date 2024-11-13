@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello! 👋 Welcome to My Profile
 
-<!--
-**nodejteam/nodejteam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Roxx - just someone who loves exploring airdrops and has a strong interest in nodes and airdrop bots.
 
-Here are some ideas to get you started:
+- 🚀 Always on the lookout for the latest airdrop opportunities
+- 🌐 Exploring new nodes and testnet networks
+- 🔍 Enjoy sharing information about airdrop bots and blockchain projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nodejteam&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
